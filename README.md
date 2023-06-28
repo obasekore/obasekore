@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/1102878c-841b-4a37-951e-6f8cf195d837.svg)](https://wakatime.com/@1102878c-841b-4a37-951e-6f8cf195d837)
 - 👋 Hi, I’m @obasekore
 - 👀 I’m interested in Agricultural Robotics and Machine Learning with Robotics, particularly Reinforcement Learning
 - 🌱 I’m currently learning ...
